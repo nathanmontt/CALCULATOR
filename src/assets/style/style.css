@@ -21,7 +21,6 @@ body {
 }
 #calculator {
     padding: 1em;
-    border: .001em solid;
     background-color: rgb(68, 68, 68);
 }
 #keys {
